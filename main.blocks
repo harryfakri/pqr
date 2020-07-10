@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="r-$6l3QZaCK6kOpS2HiR" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="~Kj8}%pF:@jcbwreUEoG"><value name="text"><shadow type="text" id="|Gqx!D$.=AznV%(lP+9?"><field name="TEXT">Nama Saya Harry Fakri</field></shadow></value></block></statement></block></xml>
